@@ -16,7 +16,7 @@ I recommend printing with PETG as a peace of mind but I'm using PLA myself. PLA 
 
 I do plan on making a few different versions of this. On that goes straight to the point. Another that adds some bends to the wire to ensure it doesn't move and also a version that will allow you to use a traditional pogo pin later on once I find a proper size.
 
-**[Poor Man's Post Fix Adapter Thread](https://old.reddit.com/r/360hacks/comments/yjggw8/poor_mans_post_fix_adapter/)**
+**[Poor Man's Post Fix Adapter Reddit Thread](https://old.reddit.com/r/360hacks/comments/yjggw8/poor_mans_post_fix_adapter/)**
 
 <img src="https://preview.redd.it/szqkwo2bqdx91.jpg?width=6000&format=pjpg&auto=webp&s=cd75841c407e0734d24b0dae3bfa1f80ee12f967" />
 
