@@ -10,5 +10,5 @@ So near the point, I made it closer to .5mm which would end up at 1mm to hold th
 
 I recommend printing with PETG as a peace of mind but I'm using PLA myself. PLA has a melting temperature of around 190c which the processor should never even reach 80c so it should be fine either way. 
 
-Thread:
-https://old.reddit.com/r/360hacks/comments/yjggw8/poor_mans_post_fix_adapter/
+**[Poor Man's Post Fix Adapter Thread](https://old.reddit.com/r/360hacks/comments/yjggw8/poor_mans_post_fix_adapter/)**
+
