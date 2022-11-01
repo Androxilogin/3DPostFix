@@ -5,7 +5,7 @@
 **Remember to tin your wire!**
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7CAYFT)
-
+<br/>
 (If you're into that sort of thing)
 
 I got a 360 slim in the mail last week that would beep but wouldn't turn on. I tore it down and popped off the X-Clamp to quickly realize it was missing two resistors underneath the CPU. So I fixed that up with components from a donor board and saw no change. So apparently it had either had a bad flash or there was more damage I hadn't noticed. Checked all over with a multimeter, everything seemed to check out. This board also unfortunately required a post-fix adapter which I had no more left on hand so I ordered a few and began working on some other consoles I had laying around. 
