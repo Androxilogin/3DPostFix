@@ -12,9 +12,17 @@ So near the point, I made it closer to .5mm which would end up at 1mm to hold th
 
 I recommend printing with PETG as a peace of mind but I'm using PLA myself. PLA has a melting temperature of around 190c which the processor should never even reach 80c so it should be fine either way. 
 
+I do plan on making a few different versions of this. On that goes straight to the point. Another that adds some bends to the wire to ensure it doesn't move and also a version that will allow you to use a traditional pogo pin later on once I find a proper size.
+
 **[Poor Man's Post Fix Adapter Thread](https://old.reddit.com/r/360hacks/comments/yjggw8/poor_mans_post_fix_adapter/)**
 
 <img src="https://preview.redd.it/szqkwo2bqdx91.jpg?width=6000&format=pjpg&auto=webp&s=cd75841c407e0734d24b0dae3bfa1f80ee12f967" />
 
 <img src="https://preview.redd.it/9jczgvraqdx91.jpg?width=6000&format=pjpg&auto=webp&s=26aa91aab6b8ad70197f9aefef9b72ace2ab28d1" />
+
+<img src="https://imgur.com/Y31twyI.jpg" />
+This is the basic version.
+
+<img src="https://imgur.com/5mTbrBx.jpg" />
+This is with the extra bends for leverage.
 
