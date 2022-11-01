@@ -18,6 +18,8 @@ I do plan on making a few different versions of this. On that goes straight to t
 
 **[Poor Man's Post Fix Adapter Reddit Thread](https://old.reddit.com/r/360hacks/comments/yjggw8/poor_mans_post_fix_adapter/)**
 
+I also **[got one of them YouTubez](https://www.youtube.com/user/androxilogin).**
+
 <img src="https://preview.redd.it/szqkwo2bqdx91.jpg?width=6000&format=pjpg&auto=webp&s=cd75841c407e0734d24b0dae3bfa1f80ee12f967" />
 
 <img src="https://preview.redd.it/9jczgvraqdx91.jpg?width=6000&format=pjpg&auto=webp&s=26aa91aab6b8ad70197f9aefef9b72ace2ab28d1" />
@@ -29,8 +31,5 @@ This is the basic version.
 <img src="https://imgur.com/5mTbrBx.jpg" />
 
 This is with the extra bends for leverage.
-
-I also **[got one of them YouTubez](https://www.youtube.com/user/androxilogin).**
-
 
 
