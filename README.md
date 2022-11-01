@@ -23,8 +23,10 @@ I do plan on making a few different versions of this. On that goes straight to t
 <img src="https://preview.redd.it/9jczgvraqdx91.jpg?width=6000&format=pjpg&auto=webp&s=26aa91aab6b8ad70197f9aefef9b72ace2ab28d1" />
 
 <img src="https://imgur.com/Y31twyI.jpg" />
+
 This is the basic version.
 
 <img src="https://imgur.com/5mTbrBx.jpg" />
+
 This is with the extra bends for leverage.
 
