@@ -2,12 +2,6 @@
 
 <img src="https://preview.redd.it/bvray3fbqdx91.jpg?width=6000&format=pjpg&auto=webp&s=1c34ae1412f15ef2c9eaa7baa499f7228a207a5f" />
 
-<img src="https://preview.redd.it/szqkwo2bqdx91.jpg?width=6000&format=pjpg&auto=webp&s=cd75841c407e0734d24b0dae3bfa1f80ee12f967" />
-
-<img src="https://preview.redd.it/9jczgvraqdx91.jpg?width=6000&format=pjpg&auto=webp&s=26aa91aab6b8ad70197f9aefef9b72ace2ab28d1" />
-
-
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7CAYFT)
 
 I got a 360 slim in the mail last week that would beep but wouldn't turn on. I tore it down and popped off the X-Clamp to quickly realize it was missing two resistors underneath the CPU. So I fixed that up with components from a donor board and saw no change. So apparently it had either had a bad flash or there was more damage I hadn't noticed. Checked all over with a multimeter, everything seemed to check out. This board also unfortunately required a post-fix adapter which I had no more left on hand so I ordered a few and began working on some other consoles I had laying around. 
@@ -19,4 +13,8 @@ So near the point, I made it closer to .5mm which would end up at 1mm to hold th
 I recommend printing with PETG as a peace of mind but I'm using PLA myself. PLA has a melting temperature of around 190c which the processor should never even reach 80c so it should be fine either way. 
 
 **[Poor Man's Post Fix Adapter Thread](https://old.reddit.com/r/360hacks/comments/yjggw8/poor_mans_post_fix_adapter/)**
+
+<img src="https://preview.redd.it/szqkwo2bqdx91.jpg?width=6000&format=pjpg&auto=webp&s=cd75841c407e0734d24b0dae3bfa1f80ee12f967" />
+
+<img src="https://preview.redd.it/9jczgvraqdx91.jpg?width=6000&format=pjpg&auto=webp&s=26aa91aab6b8ad70197f9aefef9b72ace2ab28d1" />
 
