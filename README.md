@@ -1,6 +1,6 @@
 # 3DPostFix
 
-<img src="[https://preview.redd.it/bvray3fbqdx91.jpg?width=6000&format=pjpg&auto=webp&s=1c34ae1412f15ef2c9eaa7baa499f7228a207a5f]" />
+<img src="https://preview.redd.it/bvray3fbqdx91.jpg?width=6000&format=pjpg&auto=webp&s=1c34ae1412f15ef2c9eaa7baa499f7228a207a5f" />
 
 [Image](https://preview.redd.it/bvray3fbqdx91.jpg?width=6000&format=pjpg&auto=webp&s=1c34ae1412f15ef2c9eaa7baa499f7228a207a5f)
 
