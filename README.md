@@ -1,7 +1,5 @@
 # 3DPostFix
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Do you like my work? It isn't ', '#29abe0', 'C0C7CAYFT');kofiwidget2.draw();</script> 
-
 I got a 360 slim in the mail last week that would beep but wouldn't turn on. I tore it down and popped off the X-Clamp to quickly realize it was missing two resistors underneath the CPU. So I fixed that up with components from a donor board and saw no change. So apparently it had either had a bad flash or there was more damage I hadn't noticed. Checked all over with a multimeter, everything seemed to check out. This board also unfortunately required a post-fix adapter which I had no more left on hand so I ordered a few and began working on some other consoles I had laying around. 
 
 In the back of my mind I couldn't put it to rest. An unfinished project always stresses me out. Especially when the answer could be soo simple yet out of reach. So I decided I would take a shot at making my own with the power of 3D printing! Grabbed my micrometer and took some measurements. Printed one off at .8mm as a test fit and made some slight alterations. Found that the depth could actually be more around 1.2mm which would also help with the diameter of the wire I was using (1mm). 
