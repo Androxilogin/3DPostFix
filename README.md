@@ -2,11 +2,9 @@
 
 <img src="https://preview.redd.it/bvray3fbqdx91.jpg?width=6000&format=pjpg&auto=webp&s=1c34ae1412f15ef2c9eaa7baa499f7228a207a5f" />
 
-[Image](https://preview.redd.it/bvray3fbqdx91.jpg?width=6000&format=pjpg&auto=webp&s=1c34ae1412f15ef2c9eaa7baa499f7228a207a5f)
+<img src="https://preview.redd.it/szqkwo2bqdx91.jpg?width=6000&format=pjpg&auto=webp&s=cd75841c407e0734d24b0dae3bfa1f80ee12f967" />
 
-[IMG]https://preview.redd.it/szqkwo2bqdx91.jpg?width=6000&format=pjpg&auto=webp&s=cd75841c407e0734d24b0dae3bfa1f80ee12f967[/IMG]
-
-[IMG]https://preview.redd.it/9jczgvraqdx91.jpg?width=6000&format=pjpg&auto=webp&s=26aa91aab6b8ad70197f9aefef9b72ace2ab28d1[/IMG]
+<img src="https://preview.redd.it/9jczgvraqdx91.jpg?width=6000&format=pjpg&auto=webp&s=26aa91aab6b8ad70197f9aefef9b72ace2ab28d1" />
 
 
 
