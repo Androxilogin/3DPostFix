@@ -3,7 +3,23 @@
 <img src="https://preview.redd.it/bvray3fbqdx91.jpg?width=6000&format=pjpg&auto=webp&s=1c34ae1412f15ef2c9eaa7baa499f7228a207a5f" />
 
 **Remember to tin your wire!**
+<br/>
 
+               * *   * *            *    *                     
+          * **   *  *** *          * *     * ***  ** *  ***** *
+            ******   ** *      *****    ** ****   ** ********  
+          *********  *****    *****   ****  ****  ** ********  
+          ***    *** ** ***   ** **  ****    **    ******      
+          ***  *** *  *  *** *    * *****    **    * ******    
+          ***  ***  * *   ***     * **     * **    *********** 
+          ** *** *  ***    ***    * **     * *      *      ****
+          ***    **  **     ***   * **     * *      *      *** 
+         ***    ***  ** *    **   *  *    *  **    *      ***  
+         **      * *          *       ****   ***  *      **    
+         **     * *            *                **     **      
+         *                      *                    *        
+         *                                       
+<br/>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7CAYFT)
 <br/>
 (If you're into that sort of thing)
