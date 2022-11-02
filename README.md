@@ -34,4 +34,7 @@ This is the basic version.
 
 This is with the extra bends for leverage.
 
+I want to note that I have not yet tested this one but I intend on giving it a try tonight. Even though they're relatively simple, these files may go through some slight changes over time as with many of my other projects. 
+
+And maybe, just maybe, I'll start actually posting my projects on Github rather than spreading them out all over the universe to be forgotten.
 
