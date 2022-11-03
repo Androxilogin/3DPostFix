@@ -30,13 +30,10 @@ I also **[got one of them YouTubez](https://www.youtube.com/user/androxilogin).*
 
 This is the basic version.
 
-<img src="https://imgur.com/5mTbrBx.jpg" />
-
-This is with the extra bends for leverage.
-
-~~I want to note that I have not yet tested this one but I intend on giving it a try tonight~~.
+<img src="https://imgur.com/7f9G6uk.jpg" />
+This is the latest version. I've added enough space for the wire casing and a small .3mm tooth to grip the wire directly after the bend.
 </br>
-This one is absolutely garbage and has been removed. 
+<img src="https://imgur.com/BffWgsL.jpg" />
 </br>
 Even though they're relatively simple, these files may go through some slight changes over time as with many of my other projects. 
 
