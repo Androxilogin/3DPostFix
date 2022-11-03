@@ -29,15 +29,14 @@ I also **[got one of them YouTubez](https://www.youtube.com/user/androxilogin).*
 <img src="https://imgur.com/7f9G6uk.jpg" />
 
 This is the latest version. I've added enough space for the wire casing and a small .3mm tooth to grip the wire directly after the bend.
-
-<img src="https://imgur.com/BffWgsL.jpg" />
-Even though they're relatively simple, these files may go through some slight changes over time as with many of my other projects. 
+</br>
+<img src="https://imgur.com/BffWgsL.jpg" /> 
 
 <img src="https://imgur.com/Y31twyI.jpg" />
 
 This is the (old) basic version.
-
 </br>
+Even though they're relatively simple, these files may go through some slight changes over time as with many of my other projects.
 </br>
 And maybe, just maybe, I'll start actually posting my projects on Github rather than spreading them out all over the universe to be forgotten.
 
