@@ -40,5 +40,4 @@ This is the (old) basic version.
 Even though they're relatively simple, these files may continue to go through some light changes over time as with many of my other projects. I don't anticipate a new version until I order some pogo pins. But that will be an optional thing, most likely. But it may be optional in a way of multi-purpose, allowing either a wire or a pogo pin. Who knows! 
 </br>
 </br>
-And maybe, just maybe, I'll start actually posting my projects on Github rather than spreading them out all over the universe to be forgotten.
 
