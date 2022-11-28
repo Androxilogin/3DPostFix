@@ -26,7 +26,7 @@ I also **[got one of them YouTubez](https://www.youtube.com/user/androxilogin).*
 
 <img src="https://preview.redd.it/9jczgvraqdx91.jpg?width=6000&format=pjpg&auto=webp&s=26aa91aab6b8ad70197f9aefef9b72ace2ab28d1" />
 
-<img src="https://imgur.com/7f9G6uk.jpg" />
+<img src="https://imgur.com/fc6SsfW.jpg" />
 
 This is the latest version. I've added enough space for the wire casing and a small .3mm tooth to grip the wire directly after the bend.
 
